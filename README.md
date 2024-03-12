@@ -1,4 +1,4 @@
 # web-notes
 
-学习 web 技术的notes
+This is my learned notes about the code.
 
