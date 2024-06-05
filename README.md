@@ -4,4 +4,4 @@ This is my learned notes about the code.
 
 git learn one two three
 
-three 1
+three
